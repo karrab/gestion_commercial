@@ -1,0 +1,9 @@
+# Désactiver la réécriture d'URL pour les fichiers uploadés
+<IfModule mod_rewrite.c>
+    RewriteEngine Off
+</IfModule>
+
+# Autoriser l'accès direct aux fichiers
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule>

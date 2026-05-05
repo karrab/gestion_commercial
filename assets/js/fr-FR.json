@@ -1,0 +1,104 @@
+{
+    "emptyTable": "Aucune donnée disponible dans le tableau",
+    "info": "Affichage de l'élément _START_ à _END_ sur _TOTAL_ éléments",
+    "infoEmpty": "Affichage de l'élément 0 à 0 sur 0 élément",
+    "infoFiltered": "(filtré à partir de _MAX_ éléments au total)",
+    "infoPostFix": "",
+    "thousands": "\u00a0",
+    "lengthMenu": "Afficher _MENU_ éléments",
+    "loadingRecords": "Chargement...",
+    "processing": "Traitement...",
+    "search": "Rechercher\u00a0:",
+    "zeroRecords": "Aucun élément correspondant trouvé",
+    "paginate": {
+        "first": "Premier",
+        "last": "Dernier",
+        "next": "Suivant",
+        "previous": "Précédent"
+    },
+    "aria": {
+        "sortAscending": "\u00a0: activer pour trier la colonne par ordre croissant",
+        "sortDescending": "\u00a0: activer pour trier la colonne par ordre décroissant"
+    },
+    "select": {
+        "rows": {
+            "_": "%d lignes sélectionnées",
+            "0": "Aucune ligne sélectionnée",
+            "1": "1 ligne sélectionnée"
+        }
+    },
+    "buttons": {
+        "print": "Imprimer",
+        "colvis": "Colonnes",
+        "copy": "Copier",
+        "copyTitle": "Copier dans le presse-papier",
+        "copyKeys": "Appuyez sur <i>ctrl<\/i> ou <i>⌘<\/i> + <i>C<\/i> pour copier le tableau dans votre presse-papier.",
+        "copySuccess": {
+            "_": "%d lignes copiées",
+            "1": "1 ligne copiée"
+        },
+        "pageLength": {
+            "_": "Afficher %d lignes",
+            "-1": "Afficher tout"
+        },
+        "collection": "Collecter"
+    },
+    "autoFill": {
+        "cancel": "Annuler",
+        "fill": "Remplir toutes les cellules avec <i>%d<\/i>",
+        "fillHorizontal": "Remplir les cellules horizontalement",
+        "fillVertical": "Remplir les cellules verticalement",
+        "info": "Exemple de remplissage automatique"
+    },
+    "searchBuilder": {
+        "conditions": {
+            "date": {
+                "after": "Après",
+                "before": "Avant",
+                "between": "Entre",
+                "empty": "Vide",
+                "equals": "Égal",
+                "not": "Différent",
+                "notBetween": "Pas entre",
+                "notEmpty": "Non vide"
+            },
+            "number": {
+                "between": "Entre",
+                "empty": "Vide",
+                "equals": "Égal",
+                "gt": "Supérieur",
+                "gte": "Supérieur ou égal",
+                "lt": "Inférieur",
+                "lte": "Inférieur ou égal",
+                "not": "Différent",
+                "notBetween": "Pas entre",
+                "notEmpty": "Non vide"
+            },
+            "string": {
+                "contains": "Contient",
+                "empty": "Vide",
+                "endsWith": "Finit par",
+                "equals": "Égal",
+                "not": "Différent",
+                "notEmpty": "Non vide",
+                "startsWith": "Commence par"
+            }
+        },
+        "add": "Ajouter",
+        "button": {
+            "_": "Critères de recherche (%d)",
+            "0": "Critères de recherche"
+        },
+        "clearAll": "Effacer tout",
+        "condition": "Condition",
+        "data": "Donnée",
+        "deleteTitle": "Supprimer ce critère",
+        "logicAnd": "ET",
+        "logicOr": "OU",
+        "title": {
+            "_": "Critères de recherche (%d)",
+            "0": "Critères de recherche"
+        },
+        "value": "Valeur"
+    }
+}

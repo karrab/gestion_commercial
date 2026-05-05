@@ -1,0 +1,109 @@
+Error: Erreur de syntaxe près de 'indépendance Borj El Bakouch - 2080 Tunis', '', '', '', '70 691 542', '70 691 ' à la ligne 2
+Error: Erreur de syntaxe près de 'UNIVERS MULTIMEDIA', '', 'Rue 2 mars', 'Medenine', '', '4100', '75.641.836 //', ' à la ligne 2
+Error: Erreur de syntaxe près de 'El Guattar', '', '', '', '', '', '', '', 'جمعية صيانة مدينة الÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Elictricité', '479973BAC000', '', '', '', '', '75.394.104 //', '75.394.104', 'Ø' à la ligne 2
+Error: Erreur de syntaxe près de 'IRAN LAFAYETTE TUNIS', '', '', '', '71831775', '71833935', 'شركة الاستØ' à la ligne 2
+Error: Erreur de syntaxe près de 'Independance Résid. Meriam Borj Baccouche', 'Ariana', '', '', '71.708.065 //', ' à la ligne 2
+Error: Erreur de syntaxe près de 'Ingenieur de Gabés', '1275431B', 'Rue Omar Ibn Elkhattab', 'Gabès', '', '6029'' à la ligne 2
+Error: Erreur de syntaxe près de 'Indistrie du Sud-Est', '', '22 Av. Farhat Hached', 'Gabés', '', '6000', '75.274' à la ligne 2
+Error: Erreur de syntaxe près de 'univers Du Livre', '', '39. Rue de §Naplouse (Mandela)', 'Tunis', '', '1082', '' à la ligne 2
+Error: Erreur de syntaxe près de 'Ajim :transp. bordement', '', '', '', '', '', '', '', 'قابض المالية Ø' à la ligne 2
+Error: Erreur de syntaxe près de 'equipement Moderne', '', '', 'Tunis', '', '', '71332799', '71332008', 'التجÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Oudref', '', '', '', '', '', '75.365.012', '75.366.454', 'شركة زرابي و' à la ligne 2
+Error: Erreur de syntaxe près de 'Unité Mécanique', '', '', '', '', '', '73.530.635 //', '73.530.488', 'الوح' à la ligne 2
+Error: Erreur de syntaxe près de 'ELEVAGE ET DE PATURAGE', '0005530VPM000', 'Rue Alain Savary', '', '', '', '71.78' à la ligne 2
+Error: Erreur de syntaxe près de 'INDUSTRIE DU BETON', '42224WAM000', '', '', '', '', '75 624.130 //', '75.624.130' à la ligne 2
+Error: Erreur de syntaxe près de 'EXPLOITATION', '', '', '', '', '', '', '', 'المزودون المختلفون'' à la ligne 2
+Error: Erreur de syntaxe près de 'Equipements Electriques', '', 'Z.I Ben Arous B.P N°7 - 2038 Ben Arous - Tunis',' à la ligne 2
+Error: Erreur de syntaxe près de 'Eexpert', '', '', '', '', '', '', '', 'L'Eexpert', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Université et l'Environnement', '', '', 'SFAX', '', '', '', '', 'جمعية اÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Energie', '', '', '', '', '', '', '', 'مركز البحوث و تكنولوجي' à la ligne 2
+Error: Erreur de syntaxe près de 'Hamed', '24757VAM000', '', '', '', '', '75.650.179-652.664//', '75.652.340', 'م' à la ligne 2
+Error: Erreur de syntaxe près de 'RABET', '764913FAC000', '', 'MEDENINE', '', '', '75 644 711', '', 'أستوديÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Apostrophe Médicale', '779026JAM000', 'Av. 7 Novembre Immeuble Aida 402 B - 302' à la ligne 2
+Error: Erreur de syntaxe près de 'HADHBI DE MATRIAUX DE CONSTRUCTION', '', 'Av de la République', 'kibelli', '', ' à la ligne 2
+Error: Erreur de syntaxe près de 'informatique', '30199ZAM000', '', 'TUNIS', '', '', '', '', 'المركز الوØ' à la ligne 2
+Error: Erreur de syntaxe près de 'henni Bkalti', '', '', 'djerba', '', '', '75650 919', '75650 919', 'أبناء Ù' à la ligne 2
+Error: Erreur de syntaxe près de 'ART DE DECOR MESSADI HEDI', '', '', 'SFAX', '', '', '98 212 138 GSM', '', 'فن ' à la ligne 2
+Error: Erreur de syntaxe près de 'Artisana - Charguia II - B.P 111 Tunis Césex', '', '', '', '70.836.514-838.248 ' à la ligne 2
+Error: Erreur de syntaxe près de 'ENTREPRISES ELECTRIQUES', '1059772PAM000', '', '', '', '4180', '75.653 002', '75' à la ligne 2
+Error: Erreur de syntaxe près de 'PRIM', '', '', '', '', '', '', '', 'GA'PRIM', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Engrais Chimique', '', '', '', '', '', '71.399.888 //', '71.399.794', 'الشرÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Alger 1000 Tunis', '', '', '', '71.237.813 //', '71.755.842', 'العيون ال' à la ligne 2
+Error: Erreur de syntaxe près de 'independance 2080-Tunis', '', '', '', '', '', 'Technologie et Instruments de Mes' à la ligne 2
+Error: Erreur de syntaxe près de 'Union', '', '', '', '75.490.041', '', 'زهير شود', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Industrie', '', '63, Rue de la Syrie - Le Beledère', 'Tunis', '', '1002', '71.7' à la ligne 2
+Error: Erreur de syntaxe près de 'Analyse Physico-chimique INRAP', '', 'P. Technologie de Sidi Thabet ', 'TUNIS', ' à la ligne 2
+Error: Erreur de syntaxe près de 'ALLUMINIUM ALI LTAIFI', '', '-', '', '', '', '', '97 797 572', 'نجارة ال' à la ligne 2
+Error: Erreur de syntaxe près de 'Enfants, Place Bab Saadoun BP 184', 'Bab Souika', '', '1006', '71.577.775 //', '' à la ligne 2
+Error: Erreur de syntaxe près de 'etudes et de recherche des telecommunications ', '', '', '', '', '', '--', '70.8' à la ligne 2
+Error: Erreur de syntaxe près de 'Environnement', '', 'Cité el habib 8P29 3052 SFAX', '', '', '', '74 680 300', '' à la ligne 2
+Error: Erreur de syntaxe près de 'EAU ET L'ENVIRONNEMENT EN TUNISIA', '1360916Y', '-', '', '', '', '', '', 'الج' à la ligne 2
+Error: Erreur de syntaxe près de 'EXPERT', '990449PPM000', '-', '', '', '', '', '', 'الخبير', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Information Scientifique', '1218633QPN000', '-', '', '', '', '', '', 'ATIS', '1'' à la ligne 2
+Error: Erreur de syntaxe près de 'ISB de Monastir', '', '-', 'Monastir', '', '', '', '', 'L'Amicale des Enseignant' à la ligne 2
+Error: Erreur de syntaxe près de 'INGENIERIE ELECRO-MECANIQUE', '', '-', '', '', '', '', '', 'جمعية الهنØ' à la ligne 2
+Error: Erreur de syntaxe près de 'ANALYSES MEDICALES', '', '-', '', '', '', '', '', 'LABORATOIRE D'ANALYSES MEDICA' à la ligne 2
+Error: Erreur de syntaxe près de 'edition et d'art graphique (STEAG)', '', '-', '', '', '', '71 788 606', '71 794 ' à la ligne 2
+Error: Erreur de syntaxe près de 'ASSISTANCE TECHNIQUE', '719094 PAM 000', '-', '', '', '', '71 719 518', '71 719 ' à la ligne 2
+Error: Erreur de syntaxe près de 'ETUDES ET SERVICES. GES LA FUDICIAIRE', '', '-', 'TUNIS', '', '', '71 903 035', ' à la ligne 2
+Error: Erreur de syntaxe près de 'éducation et de famille de ISSTE GABES', '', '-', '', '', '', '', '', 'المن' à la ligne 2
+Error: Erreur de syntaxe près de 'EDITION ET D'ART GRAPHIQUE', '', '-', '', '', '', '', '71 794 891', 'SOCIETE TUN' à la ligne 2
+Error: Erreur de syntaxe près de 'ELECTRICITE DU SUD', '1269177/T/M/B/000', '-', 'MEDENINE', '', '', '75 641 884',' à la ligne 2
+Error: Erreur de syntaxe près de 'INJECTION', '', '-', '', '', '', '', '', 'التقنيات العصرية للض' à la ligne 2
+Error: Erreur de syntaxe près de 'EQUIPEMENT GENERAL', '', '-', 'TUNIS', '', '1006', '71 789 797', '71 847 778', '' à la ligne 2
+Error: Erreur de syntaxe près de 'OASIS EL HAMMA', '', '-', '', '', '', '75 335 536', '75 335 537', 'شركة مر' à la ligne 2
+Error: Erreur de syntaxe près de 'ILE', '', '-', '', '', '', '', '', 'QUINCAILLERIE DE L'ILE', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'EDUCATION ET DE LA FORM. CONTINUE', '', '-', '', '', '', '', '', 'المعهد Ø' à la ligne 2
+Error: Erreur de syntaxe près de 'ILE', '', 'Av.7 Nouvembre el May Djerba', '', '', '', '98 527 559/24 152 827', '' à la ligne 2
+Error: Erreur de syntaxe près de 'INTERACTION IHM', '', '-', '', '', '', '', '', 'ASSOCIATION TUNISIENNE D'INTERAC' à la ligne 2
+Error: Erreur de syntaxe près de 'ENTRETIEN)', '', '-', '', '', '', '75 650 331', '75 620 449', 'الناظور ل' à la ligne 2
+Error: Erreur de syntaxe près de 'EQUIPEMENTS', '', '-', '', '', '', '', '', 'مصرف المدينة للتجهي' à la ligne 2
+Error: Erreur de syntaxe près de 'ISD', '', '-', '', '', '', '71 601 050', '71 600 200', 'جمعية قدماء ا' à la ligne 2
+Error: Erreur de syntaxe près de 'INGENIERIE ET REFERENCE', '', '-', '', '', '', '', '', 'العالمية للهÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'ELECTRICITE', '', '-', '', '', '', '75 275 814', '75 275 817', 'ETS LASSOUED D'E' à la ligne 2
+Error: Erreur de syntaxe près de 'ELECTRICITE', '', '-', '', '', '', '75 275 814', '75 275 817', 'ETS LASSOUED D'E' à la ligne 2
+Error: Erreur de syntaxe près de 'INFORMATIQUE', '0030199ZAM000', '-', '', '', '', '', '', 'المركز الوطÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Environnement et la Nature de Gabes', '', '-', '', '', '', '', '', 'الجمعي' à la ligne 2
+Error: Erreur de syntaxe près de 'EXPERTISE', '', '-', '', '', '', '', '', 'الشركة المتوسطية للم' à la ligne 2
+Error: Erreur de syntaxe près de 'ERE NOUVELLE ENNASR II', 'TUNIS', '', '2037', '71 827 965', '71 827 964', 'شرÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'Association Tunisienne d'Ecologie Microbienne', '', '-', '', '', '', '', '', 'ا' à la ligne 2
+Error: Erreur de syntaxe près de 'EQUIPEMENT', '966317 M/A/M 000', 'ABOU KACEM CHEBBI ', 'GABES', '', '6011', '', ' à la ligne 2
+Error: Erreur de syntaxe près de 'Innov.et de l'Inser des Comp.', '', '-', '', '', '', '', '', 'جمعية تنمÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'ANALYSE PHYSICO-CHIMIQUE', '', '-', '', '', '', '', '', 'المعهد الوطن' à la ligne 2
+Error: Erreur de syntaxe près de 'EAU', '1305738/M', '-', '', '', '', '', '', 'الجمعية التونسية لØ' à la ligne 2
+Error: Erreur de syntaxe près de 'EXPERT', '990449PPM000', '-', 'GABES', '', '', '75271457', '75278825', '', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Ingenieur de SFAX', '', '-', '', '', '', '', '', 'المدرسة الوطنية ' à la ligne 2
+Error: Erreur de syntaxe près de 'equipement hotelier', '', '-', '', '', '', '', '', 'les biens d'equipement hotel' à la ligne 2
+Error: Erreur de syntaxe près de 'INVESTISSEMENT AGRT FRERE B ZAHOU', '1495627/L', '-', '', '', '', '98186666/2421' à la ligne 2
+Error: Erreur de syntaxe près de 'ESPACE AGRICOLE', '', '-', '', '', '', '', '', 'L'ESPACE AGRICOLE', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'ETUDES ET DE PRESTATION DE SERVICES', '0341486HPM000', '4RUE HASSEN IBN NOOMANE ' à la ligne 2
+Error: Erreur de syntaxe près de 'Athenes', 'TUNIS', '', '', '71 259 856', '', 'SOUILAH ROBOTIQUE', '1')' à la ligne 2
+Error: Erreur de syntaxe près de '2022', '1485228T', '-', '', '', '', '', '', 'BMAT'2022', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'ELEVAGE CAMELIN DU SUD', '1158178DNM000', 'JELLAL RTE MEDENINE', 'BEN GARDANE', ' à la ligne 2
+Error: Erreur de syntaxe près de 'INFORMATIQUE ET DE MAINTENANCE DE SUD', '1069817QPM000', '-', '', '', '', '75279' à la ligne 2
+Error: Erreur de syntaxe près de 'Aquaculture', '1068541BNN000', '-', '', '', '', '', '', 'المركز الفني' à la ligne 2
+Error: Erreur de syntaxe près de 'ACCREDITATION', '965051 ANF', '-', '', '', '', '', '', 'المجلس الوطنÙ' à la ligne 2
+Error: Erreur de syntaxe près de 'INTEGRATION PROFESSIONNELLE', '', 'Ksar héllal Rue hédi nouira imm amal ', '',' à la ligne 2
+Error: Erreur de syntaxe près de 'ESIER Medjez El Bab', '1191246 PN 000', '-', '', '', '', '', '', 'Ass. des ancie' à la ligne 2
+Error: Erreur de syntaxe près de 'OCEAN BUREAUTIQUE INFORMATIQUE', '', '-', '', '', '', '74 296 872', '74 298 878'' à la ligne 2
+Error: Erreur de syntaxe près de 'OUTILLAGE', '', '48 Rue Ibn Khaldoun', 'TUNIS', '', '1001', '71 332 717', '71 3' à la ligne 2
+Error: Erreur de syntaxe près de 'EQUIPEMENT LAITIERS', '1377609 ABM', 'rue ahmed sekilli en face hotel les Arcade' à la ligne 2
+Error: Erreur de syntaxe près de 'Horizon de Formation', '', '-', '', '', '', '75 279 357', '75 279 357', 'معهØ' à la ligne 2
+Error: Erreur de syntaxe près de 'Environnement', '1485228 TNN 000', '-', '', '', '', '', '', 'الجمعية ال' à la ligne 2
+Error: Erreur de syntaxe près de 'Ecotoxicologie', '1629923JNN000', '-', '', '', '', '', '', 'Association Scientif' à la ligne 2
+Error: Erreur de syntaxe près de 'Image', '', '-', '', '', '', '', '', 'Ass. ARTS pour l'Image', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'ANALYSES ET ESSAIS', '0032883XAM000', 'Rue AbouElcamem Chebbi', 'SOUSSE', '', '4' à la ligne 2
+Error: Erreur de syntaxe près de 'IDEAL', '1567316X', '-', '', '', '', '', '', 'L'IDEAL', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'Education et de la Famille-ISG GABES', '788302 LPE001', '-', '', '', '', '', '',' à la ligne 2
+Error: Erreur de syntaxe près de 'ASSOCIATION GABES ACTION', '1308634SNP000', '-', '', '', '', '', '', 'جمعية' à la ligne 2
+Error: Erreur de syntaxe près de 'Amicale des enseignants de la FSEG Mahdia', '1301893 FPN', '-', '', '', '', '', ' à la ligne 2
+Error: Erreur de syntaxe près de 'INVESTISSEMENT ET TRAVAUX', '13773692P', '-', 'KEBILI', '', '4200', '', '', 'STE' à la ligne 2
+Error: Erreur de syntaxe près de 'EXELLENCE DE FORMATION TOURISTIQUE', '', '-', '', '', '4100', '75 734 547/243925' à la ligne 2
+Error: Erreur de syntaxe près de 'oasis de chenini-Gabes', '0868616YPN000', '-', '', '', '', '75 228 407/ 96 683 4' à la ligne 2
+Error: Erreur de syntaxe près de 'environnement', 'JEMNA KEBILI', '', '4124', '28 092 307', '', 'محمد بن صØ' à la ligne 2
+Error: Erreur de syntaxe près de 'EL JEM', '931460 F', '-', '', '', '', '73 631 060', '', 'جمعية التنمي' à la ligne 2
+Error: Erreur de syntaxe près de 'COM ACADEMY', '1706327 B', '-', '', '', '', '', '', 'SHARE'COM ACADEMY', '1')' à la ligne 2
+Error: Erreur de syntaxe près de 'INVENTAIRE ET DES RECHERCHES HYDROLIQUES', '512494 J N N', '-', '', '', '', '', ' à la ligne 2
+Error: Erreur de syntaxe près de 'OASIS TELMINE', '1833148K', '-', '', '', '', '', '', 'GDA VAL'OASIS TELMINE', '1' à la ligne 2
+Import terminé
